@@ -1,10 +1,20 @@
-# Comandos Básicos de Python
+# Estudos de Python
 
-## Este é meu primeiro repositório de estudos utilizando Python.
+Este repositório foi criado com o objetivo de aprender e praticar Python, com foco na área de dados.
 
-## Aqui reuni alguns exemplos e conceitos básicos da linguagem que venho utilizando no dia a dia para praticar lógica de programação e desenvolvimento de scripts.
+Aqui reúno exercícios, testes e pequenos exemplos que utilizo para treinar a linguagem e desenvolver minha lógica de programação. Os arquivos representam práticas realizadas durante o processo de estudo.
 
-## O objetivo é consolidar minha base em programação e entender melhor como Python pode ser utilizado no fluxo de desenvolvimento.
+A ideia é registrar minha evolução e manter organizado tudo que estou aprendendo ao longo do tempo.
 
-print(): função da linguagem Python utilizada para exibir mensagens ou dados no terminal.
-Aspas (""): são utilizadas para delimitar textos (strings) que serão exibidos pela função print().
+## Estrutura do repositório
+
+A organização do repositório segue a estrutura abaixo:
+
+- `dia_01, dia_02...`  
+  Pastas utilizadas para registrar tudo que foi estudado e praticado em cada dia.
+
+- `exercicios/`  
+  Atividades e exercícios utilizados para praticar Python.
+
+- `outros/`  
+  Arquivos diversos, anotações ou conteúdos importantes relacionados aos estudos.
